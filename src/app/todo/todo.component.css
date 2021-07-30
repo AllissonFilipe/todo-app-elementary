@@ -1,0 +1,71 @@
+.title {
+    margin-top: 31px;
+    margin-bottom: 48px;
+    margin-left: 210px;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: -0.045em;
+}
+
+.options {
+    cursor: pointer;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #333333;
+}
+
+.bg-bar {
+    background-color: #e9ecef;
+}
+
+.input-list {
+    border-radius: 8px;
+    font-family: Montserrat;
+}
+
+.button {
+    width: 81px;
+    height: 40px;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-color: #2F80ED;
+    background: #2F80ED;
+    box-shadow: 0px 2px 6px rgba(127, 177, 243, 0.4);
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.check {
+    width: 24px;
+    height: 24px;
+    border: 1px solid #e9ecef;
+    box-sizing: border-box;
+    border-radius: 4px;
+    vertical-align: bottom;
+    margin-right: 8px;
+}
+
+.list-items {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin-bottom: 14px;
+}
+
+.item-completed {
+    text-decoration: line-through;
+}
+
+.fa-trash {
+    color: rgb(170, 170, 170);
+    float: right;
+    cursor: pointer;
+}
